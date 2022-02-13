@@ -1,0 +1,41 @@
+awesome font: para iconos
+url:  <script src="https://kit.fontawesome.com/bd6f1f5c74.js" crossorigin="anonymous"></script>
+
+faztweb: animaciones de testo y logo
+
+propiedades CSS
+
+padding: espaciar texto de la paredes de un <div>
+
+font-size: cambiar tamaño de fuente
+
+box-shadow: sombra para pardes de un <div> o para texto
+
+outline: none; sirve para quitar la hit box de un cuadro de texto o un botton
+
+text-transform: uppercase; Sirve para que todo lo que se escriba sea en mayuscula y el texto
+
+transition: background-color 1s(tiempo) ease-out; para cambiar el tiempo de una transicion ejem el hover.
+
+grid-template-columns: 1fr 1fr; dividir contenido a la mitad
+
+grid-template-columns: 2fr 1fr; dividir contenido a 1/3
+
+
+ejem: h1{
+    background; #ccc:
+    background;linear-gradient(color, color ,color)
+    font-size;100px:
+    -webkit-text-fill-color:
+    transpared;
+    -webkit-background-clip:text;
+
+}
+texto-color-degradado
+
+
+IMAGENES RESPONSIVE
+
+srcset: define el conjunto de imágenes que el navegador podrá elegir, y el tamaño de cada imagen.
+ Cada conjunto de información de imagen está separado del
+ anterior por una coma. Para cada uno, escribimos:
